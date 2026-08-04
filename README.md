@@ -21,13 +21,12 @@ AI/ML Engineer | Deep Learning | Generative AI | Full-Stack Development
 
 <p align="left">
 💻 Passionate about building AI-powered applications and intelligent automation systems.<br>
-🧠 Skilled in Machine Learning, Deep Learning, Computer Vision, Generative AI, and Blockchain integration.<br>
-🚀 Developed AI-powered financial risk analysis, deepfake detection, and document verification platforms.<br>
-📚 Currently learning advanced Generative AI, scalable AI systems, and AI security workflows.<br>
-🎯 Goal: To become a professional AI Engineer building real-world intelligent systems.<br>
-⚡ Interested in AI Engineering, Computer Vision, Full-Stack AI Development, and Blockchain technologies.
+🧠 Skilled in Machine Learning, Deep Learning, Computer Vision, Generative AI, RAG, and Blockchain integration.<br>
+🚀 Built AI solutions including SmartLoan, VisionCraft Studio (Wireframe-to-Code), Deepfake Detection, and Blockchain Document Verification.<br>
+📚 Currently learning advanced Generative AI, AI Agents, Multimodal AI, and scalable AI systems.<br>
+🎯 Goal: To become a professional AI Engineer building intelligent, real-world AI products.<br>
+⚡ Interested in AI Engineering, Computer Vision, Generative AI, AI Agents, Full-Stack AI Development, and Blockchain technologies.
 </p>
-
 ###
 
 <h2 align="left">Tech Stack</h2>
@@ -76,10 +75,11 @@ AI/ML Engineer | Deep Learning | Generative AI | Full-Stack Development
 ###
 
 <p align="left">
-🔹 AI-Powered SmartLoan System with ML, Deep Learning, Blockchain, and Generative AI integration.<br>
+🔹 AI-Powered SmartLoan System with ML, Deep Learning, Blockchain, and Generative AI.<br>
+🔹 VisionCraft Studio – AI Wireframe-to-Code Generator using YOLOv8, RAG, Gemini LLM, and Streamlit.<br>
 🔹 Multi-Class Deepfake Detection using PyTorch and EfficientNet-B4.<br>
 🔹 Blockchain-Based Document Verification using Solidity and Web3.py.<br>
-🔹 E-Commerce Price Comparison Platform using Django and Selenium automation.
+🔹 E-Commerce Price Comparison Platform using Django and Selenium.
 </p>
 
 ###
